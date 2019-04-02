@@ -1,0 +1,1 @@
+{'have': 3, "don't": 16, 'is': 17, 'want': 12, 'go': 14, "doesn't": 21, 'would': 7, 'to': 13, 'going': 18, 'has': 11, 'do': 1, 'knows': 23, 'that': 10, 'food': 15, 'clue': 5, 'know': 9, 'not': 2, 'he': 6, 'a': 4, 'i': 0, 'mall': 20, 'suppose': 8, 'she': 22, 'the': 19}
